@@ -27,7 +27,6 @@ a:link,
 a:visited {
 	color: #000000 !important;
 	transition: 0.5s !important;
-	text-shadow: 0px 3px 5px rgba(0,0,0,.5);
 }
 /*---------------Link Hovering---------------*/
 a:hover {
@@ -141,12 +140,7 @@ h3 {
 	background: #FBC34D;
 	color: #000000 !important;
 }
-/*---------------King and Icon Opacity---------------*/
-div#lion_image {
-	opacity: 0.6;
-}
-table#player img {
-	opacity: 0.6;
+
 }
 /*---------------Circular King and Icon---------------*/
 div#lion_image {
@@ -218,7 +212,6 @@ textarea {
 	border-radius: 5px;
 	box-shadow: none !important;
 	color: black !important;
-	text-shadow: none !important;
 }
 /*---------------Account Option Boxes -> friend reqs, toggles---------------*/
 .item-header {
