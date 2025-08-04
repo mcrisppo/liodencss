@@ -139,7 +139,7 @@ h3 {
 	margin: 0px;
 	float: right;
 	overflow: auto;
-	height: 250px;
+	height: 300px;
 	width: 1000px;
 	margin-bottom: 0px;
 }
@@ -379,3 +379,4 @@ textarea {
 .sub_menu_item_selected {
 	background: #000000 !important;
 }
+
