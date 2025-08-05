@@ -109,7 +109,7 @@ h3 {
 }
 /*---------------Main Background Panel---------------*/
 .container.main {
-	background: #c78d82
+	background: #c78d8280
 	border: 1px solid #311f29;
 	box-shadow: none;
 	border-top-left-radius: 25px;
@@ -380,3 +380,4 @@ textarea {
 .sub_menu_item_selected {
 	background: #311f29 !important;
 }
+
