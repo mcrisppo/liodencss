@@ -16,7 +16,7 @@ Please do NOT remove this credit, unless your coding becomes unrecognizable from
 
 
 body {
-	background: url('https://i.imgur.com/K3V6qhb.png') center center fixed;
+	background: url('https://i.imgur.com/K3V6qhb.png') no-repeat center center fixed;
 	background-size: 100%;
 	font-family:"Playwrite DE Grund", cursive;
 	color: rgb(54, 45, 50);
@@ -647,4 +647,5 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 			width: 790px;
 		}
 	}
+
 
