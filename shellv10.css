@@ -599,27 +599,27 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 
 
 div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('https://i.imgur.com/gEjcBNn.png')
+	content: url('https://i.imgur.com/gEjcBNn.png')  !important;
 }
 
 
 a[href$="CAVE ID"]>div.cave-grid>img {
-	content: url('https://i.imgur.com/BuKj0g9.png') 
+	content: url('https://i.imgur.com/BuKj0g9.png')  !important;
 }
 
 
 a[href$="lionoverview.php?id=PLAYER ID"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('https://i.imgur.com/BuKj0g9.png')
+	content: url('https://i.imgur.com/BuKj0g9.png')  !important;
 }
 
 
 a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
-	content: url('https://i.imgur.com/vH8xysQ.png')
+	content: url('https://i.imgur.com/vH8xysQ.png')  !important;
 }
 
 
 .mound-grid img /* Mound(s) */ {
-	background: url("https://i.imgur.com/6X5QxFh.png");
+	background: url("https://i.imgur.com/6X5QxFh.png") !important;
 	width: 0;
 	height: 0;
 	padding-top: 80px;
@@ -647,5 +647,6 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 			width: 790px;
 		}
 	}
+
 
 
