@@ -222,46 +222,6 @@ h3 {
 }
 
 
-/* CHAT */
-
-
-.s-chat-message:nth-child(even) /* Even Numbered Messages */ {
-	background: rgba(1, 1, 1, 0.5) !important;
-        color: #000000 !important;
-	border: none !important
-}
-
-
-.s-chat-message:nth-child(odd) /* Odd Numbered Messages */ {
-	background: rgba(1, 1, 1, 0.5) !important;
-        color: #000000 !important;
-	border: none !important
-}
-
-
-.s-chat-message__pinned /* Pinned Message */ {
-	background: rgba(1, 1, 1, 0.5) !important;
-        color: #000000 !important;
-	border: none !important
-}
-
-
-.s-chat-message_timestamp /* Timestamps */ {
-	color: #000000 !important;
-}
-
-
-div#chatMessageContainer {
-	border: none !important;
-}
-
-
-button#label_currentChannel /* Channel Button ie. Main, Sales */ {
-	background: rgba(1, 1, 1, 0.5) !important;
-        color: #000000 !important;
-	border: none !important
-}
-
 
 /* LION INFO TABLE (Level, Stats, Territory Count, Etc.) */
 
@@ -699,3 +659,4 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 			width: 790px;
 		}
 	}
+
