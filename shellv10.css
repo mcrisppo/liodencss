@@ -450,7 +450,7 @@ a:hover {
 	border: none;
 	border-radius: 25px;
 	margin: 10px;
-	height: 350px;
+	height: 400px;
 	width: 60%;
 	overflow: auto
 }
@@ -599,22 +599,22 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 
 
 div.cave-grid>img /* Pregnant Lionesses */ {
-	content: url('https://i.imgur.com/gEjcBNn.png') !important
+	content: url('https://i.imgur.com/gEjcBNn.png')
 }
 
 
 a[href$="CAVE ID"]>div.cave-grid>img {
-	content: url('https://i.imgur.com/BuKj0g9.png') !important
+	content: url('https://i.imgur.com/BuKj0g9.png') 
 }
 
 
 a[href$="lionoverview.php?id=PLAYER ID"]>div.cave-grid>img /* Pride Overview */ {
-	content: url('https://i.imgur.com/BuKj0g9.png') !important
+	content: url('https://i.imgur.com/BuKj0g9.png')
 }
 
 
 a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
-	content: url('https://i.imgur.com/vH8xysQ.png') !important
+	content: url('https://i.imgur.com/vH8xysQ.png')
 }
 
 
@@ -647,3 +647,4 @@ a[href$="unsorted.php?id=PLAYER ID"]>div.cave-grid>img /* Unsorted */ {
 			width: 790px;
 		}
 	}
+
